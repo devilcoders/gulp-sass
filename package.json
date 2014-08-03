@@ -21,7 +21,7 @@
     "url": "https://github.com/dlmanning/gulp-sass/issues"
   },
   "dependencies": {
-    "node-sass": "sass/node-sass",
+    "node-sass": "arcxyz/node-sass",
     "gulp-util": "~2.2",
     "map-stream": "~0.1"
   },
